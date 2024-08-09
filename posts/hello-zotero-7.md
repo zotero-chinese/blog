@@ -28,7 +28,7 @@ draft: false # 标记是否发布此博文
 
 #### 新的 APP 图标
 
-![新图标](https://www.zotero.org/static/images/blog/7.0/z-logo.png)
+<img src='https://www.zotero.org/static/images/blog/7.0/z-logo.png' width='500px'>
 
 #### 内建附件预览
 
@@ -125,6 +125,8 @@ draft: false # 标记是否发布此博文
 绝大部分插件都已经适配了 Zotero 7，到现在了还没适配的有很大概率也不会再适配了。
 
 更新 Zotero 后，大部分插件应该都可以自动更新到适配 Zotero 7 的版本，如果你的插件没有自动更新成功，请前往 [中文社区插件商店](https://zotero-chinese.com/plugins/) 下载兼容 Zotero 7 的插件版本。
+
+喜欢使用 Zotfile 插件的同学，因为该插件已经停止对 Zotero 7 的支持，你可以在 Zotero 7 上使用 [Attanger 插件](https://github.com/MuiseDestiny/zotero-attanger)替代。
 
 安装插件请阅读 [关于插件](https://zotero-chinese.com/user-guide/plugins/about-plugin) 和 [关于安装插件中常见的问题](https://zotero-chinese.com/user-guide/faqs/plugins)。
 
