@@ -22,7 +22,7 @@
   "markdown.validate.fileLinks.enabled": "error",
   "markdown.validate.referenceLinks.enabled": "ignore",
   "markdown.copyFiles.destination": {
-    "**/*": "${documentWorkspaceFolder}/assets/images/"
+    "**/*": "${documentWorkspaceFolder}/posts/assets/"
   },
   "markdown.updateLinksOnFileMove.enabled": "always",
   "markdown.editor.pasteUrlAsFormattedLink.enabled": "smart"
