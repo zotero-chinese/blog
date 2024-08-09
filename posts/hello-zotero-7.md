@@ -145,3 +145,13 @@ draft: false # 标记是否发布此博文
 感谢每一位社区成员的支持与贡献！
 
 Zotero 中文社区是我们共同努力的成果，期待在未来的日子里，继续与大家一起探索和推动 Zotero 在中文用户中的发展。让我们一同迎接 Zotero 带来的全新体验！🎉🚀
+
+---
+
+::: info Copyright
+
+本文部分图文来自 [Zotero 官方团队博客](https://www.zotero.org/blog/zotero-7/)。
+
+Some of the pictures in this post are from the [Zotero official team blog](https://www.zotero.org/blog/zotero-7/).
+
+:::
