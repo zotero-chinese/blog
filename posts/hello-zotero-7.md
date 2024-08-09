@@ -96,13 +96,13 @@ draft: false # 标记是否发布此博文
 
 ### 如果你正在使用 Zotero 7 beta
 
-我们推荐你尽快过渡到 Zotero 7 正式版。
+我们推荐你尽快升级到 Zotero 7 正式版。
 
 从 beta 更新到正式版现在还不能自动更新，需要前往 [Zotero 官网](https://zotero.org/download) 下载最新版本覆盖安装。
 
 关于安装请阅读 [安装 Zotero](https://zotero-chinese.com/user-guide/install)。
 
-::: info 继续停留在 beta 版本？
+::: info 想继续停留在 beta 版本？
 
 如果想留在 beta 版更新渠道，则无需任何操作。
 
