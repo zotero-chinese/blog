@@ -90,15 +90,15 @@ draft: false # 标记是否发布此博文
 
 ### 如果你正在使用 Zotero 6
 
-直接点击 Zotero 顶栏的「帮助」-「检查更新」，即可自动更新到 7.0 正式版。
+点击 Zotero 菜单栏的「帮助」-「检查更新」，即可自动更新到 7.0 正式版。
 
-注意：建议 Windows 用户前往 Zotero 官网下载新的安装包覆盖安装，因为自动更新后的仍是 32 位版本的 Zotero，而 Zotero 7 现在已经支持 64 位系统了，使用 64 位的 Zotero 性能更好！
+注意：建议 Windows 用户前往 [Zotero 官网](https://zotero.org/download) 下载新的安装包覆盖安装，因为自动更新后的仍是 32 位版本的 Zotero，而 Zotero 7 现在已经支持 64 位系统了，使用 64 位的 Zotero 性能更好！
 
 ### 如果你正在使用 Zotero 7 beta
 
 我们推荐你尽快过渡到 Zotero 7 正式版。
 
-从 beta 更新到正式版现在还不能自动更新，需要前往 Zotero 7 官网下载最新版本覆盖安装。
+从 beta 更新到正式版现在还不能自动更新，需要前往 [Zotero 官网](https://zotero.org/download) 下载最新版本覆盖安装。
 
 关于安装请阅读 [安装 Zotero](https://zotero-chinese.com/user-guide/install)。
 
