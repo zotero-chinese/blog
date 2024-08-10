@@ -8,7 +8,7 @@ draft: false # 标记是否发布此博文
 
 我们非常高兴 Zotero 官方团队终于正式推送了近年来最大的更新：Zotero 7！
 
-从 [第 1 个测试版发布](https://forums.zotero.org/discussion/105094/announcing-the-zotero-7-beta/p1) 开始，历时近 446 天，117 个测试版本，Zotero 7.0 终于问世了。
+从 [第 1 个测试版发布](https://forums.zotero.org/discussion/105094/announcing-the-zotero-7-beta/p1) 开始，历时 446 天，117 个测试版本，Zotero 7.0 终于问世了。
 
 这一全新版本不仅提升了用户体验，还引入了一系列强大的新功能，包括更快速的性能、更灵活的 PDF 注释工具以及对插件系统的重大改进。
 
@@ -64,7 +64,7 @@ draft: false # 标记是否发布此博文
 
 ### 更智能的引用过程
 
-现在引用您的来源更快、更直观。
+现在引用正在阅读的文献更快、更直观。
 
 引文对话框会自动建议您在条目列表中选中的项目或在阅读器中打开的项目。现在，引用正在查看的内容之需要“添加/编辑引文”并按 Enter/Return 。
 
@@ -96,15 +96,15 @@ draft: false # 标记是否发布此博文
 
 ### 如果你正在使用 Zotero 7 beta
 
-我们推荐你尽快升级到 Zotero 7 正式版。
+我们推荐你尽快切换到 Zotero 7 正式版。
 
-从 beta 更新到正式版现在还不能自动更新，需要前往 [Zotero 官网](https://zotero.org/download) 下载最新版本覆盖安装。
+现在还不能自动从 beta 版切换回正式版，需要前往 [Zotero 官网](https://zotero.org/download) 下载最新正式版覆盖安装。
 
 关于安装请阅读 [安装 Zotero](https://zotero-chinese.com/user-guide/install)。
 
 ::: info 想继续停留在 beta 版本？
 
-如果想留在 beta 版更新渠道，则无需任何操作。
+如果想留在 beta 版，则无需任何操作。
 
 :::
 
@@ -118,7 +118,7 @@ draft: false # 标记是否发布此博文
 
 当然！
 
-我们推荐普通用户尽快更新到正式版，beta 版本是用于开发者测试的，会比正式版更新更加频繁，但更不稳定，不适合作为生产用途。
+我们推荐普通用户尽快切换到正式版，beta 版本是用于开发者测试的，会比正式版更新更加频繁，但更不稳定，不适合作为生产用途。
 
 ### 更新后插件可以适配吗
 
