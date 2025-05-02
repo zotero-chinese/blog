@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  main:
     if: github.repository == 'zotero-chinese/blog'
     runs-on: ubuntu-latest
     steps:
