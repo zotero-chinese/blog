@@ -1,5 +1,5 @@
 {
-  "name": "zotero-chinese-blog",
+  "name": "@zotero-chinese/blog",
   "version": "1.0.0",
   "description": "Zotero 中文社区博客",
   "private": "true",
@@ -7,7 +7,8 @@
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview",
-    "lint": "prettier --check ."
+    "lint:fix": "prettier --write . && autocorrect --fix && markdownlint-cli2 --fix",
+    "lint:check": "prettier --check . && autocorrect --lint && markdownlint-cli2"
   },
   "keywords": [
     "Zotero",
@@ -18,14 +19,14 @@
   "author": "northword",
   "license": "CC-BY-NC-SA-4.0",
   "devDependencies": {
-    "prettier": "2.8.8",
-    "vitepress": "^1.3.1",
-    "vue": "^3.4.35"
+    "@zotero-chinese/markdownlint-config": "^1.0.4",
+    "@zotero-chinese/prettier-config": "^1.0.4",
+    "autocorrect-node": "^2.14.0",
+    "markdownlint-cli2": "^0.17.2",
+    "prettier": "^3.5.3",
+    "vitepress": "^1.6.3",
+    "vue": "^3.5.13"
   },
-  "prettier": {
-    "tabWidth": 2,
-    "printWidth": 80,
-    "proseWrap": "preserve",
-    "endOfLine": "lf"
-  }
+  "prettier": "@zotero-chinese/prettier-config",
+  "packageManager": "pnpm@10.10.0"
 }

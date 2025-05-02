@@ -28,7 +28,10 @@ draft: false # 标记是否发布此博文
 
 #### 新的 APP 图标
 
+<!-- markdownlint-disable  -->
+<!-- 使用 img 语法以支持图片大小 -->
 <img src='https://www.zotero.org/static/images/blog/7.0/z-logo.png' width='500px'>
+<!-- markdownlint-restore -->
 
 #### 内建附件预览
 
@@ -66,7 +69,7 @@ draft: false # 标记是否发布此博文
 
 现在引用正在阅读的文献更快、更直观。
 
-引文对话框会自动建议您在条目列表中选中的项目或在阅读器中打开的项目。现在，引用正在查看的内容之需要“添加/编辑引文”并按 Enter/Return 。
+引文对话框会自动建议您在条目列表中选中的项目或在阅读器中打开的项目。现在，引用正在查看的内容之需要「添加/编辑引文」并按 Enter/Return。
 
 ![引用](https://www.zotero.org/static/images/blog/7.0/smarter-citing.png)
 
