@@ -28,7 +28,10 @@ draft: false # 标记是否发布此博文
 
 #### 新的 APP 图标
 
+<!-- markdownlint-disable  -->
+<!-- 使用 img 语法以支持图片大小 -->
 <img src='https://www.zotero.org/static/images/blog/7.0/z-logo.png' width='500px'>
+<!-- markdownlint-restore -->
 
 #### 内建附件预览
 
