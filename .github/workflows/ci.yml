@@ -32,7 +32,7 @@ jobs:
 
       - name: 检查格式
         run: |-
-          pnpm run lint
+          pnpm run lint:check
 
       - name: 构建文档
         run: |-

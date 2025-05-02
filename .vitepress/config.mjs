@@ -23,7 +23,7 @@ export default defineConfig({
         {
           find: /^.*\/VPHome\.vue$/,
           replacement: fileURLToPath(
-            new URL("./components/Home.vue", import.meta.url)
+            new URL("./components/Home.vue", import.meta.url),
           ),
         },
       ],

@@ -15,7 +15,7 @@ date: 2024-8-1
 
 ### 🇨🇳 Zotero 的汉化
 
-![Zotero本地化](assets/zotero-transifex.png)
+![Zotero 本地化](assets/zotero-transifex.png)
 
 Zotero 中文社区一直积极参与 Zotero 的本地化翻译工作，通过 Transifex 平台，我们和其他翻译员共同为 Zotero 提供了完整的中文翻译，确保中文用户能够无障碍地使用和理解 Zotero 的各项功能。
 
@@ -31,7 +31,7 @@ Zotero 中文社区一直积极参与 Zotero 的本地化翻译工作，通过 T
 
 ### 🛠️ 插件商店页面
 
-![Zotero插件商店](assets/zotero-plugins-market.png)
+![Zotero 插件商店](assets/zotero-plugins-market.png)
 
 我们全新推出了插件商店页面，收录了大部分实用的 Zotero 插件，并且支持按功能、兼容性等多维度进行搜索、筛选和排序。页面还提供了多个下载镜像，方便国内用户快捷获取所需插件。
 
@@ -39,7 +39,7 @@ Zotero 中文社区一直积极参与 Zotero 的本地化翻译工作，通过 T
 
 插件商店页面由 [@northword](https://northword.cn) 创建，感谢 [@l0o0](https://github.com/l0o0) 创建的表格格式的插件商店页面。
 
-特别感谢 [@volatile-static](https://github.com/volatile-static) 维护的“插件排行榜”。
+特别感谢 [@volatile-static](https://github.com/volatile-static) 维护的「插件排行榜」。
 
 ### 🔄 转换器列表页面
 
