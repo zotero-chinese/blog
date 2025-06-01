@@ -19,14 +19,14 @@
   "author": "northword",
   "license": "CC-BY-NC-SA-4.0",
   "devDependencies": {
-    "@zotero-chinese/markdownlint-config": "^1.0.4",
-    "@zotero-chinese/prettier-config": "^1.0.4",
+    "@zotero-chinese/markdownlint-config": "^1.0.5",
+    "@zotero-chinese/prettier-config": "^1.0.5",
     "autocorrect-node": "^2.14.0",
-    "markdownlint-cli2": "^0.17.2",
+    "markdownlint-cli2": "^0.18.1",
     "prettier": "^3.5.3",
     "vitepress": "^1.6.3",
-    "vue": "^3.5.13"
+    "vue": "^3.5.16"
   },
   "prettier": "@zotero-chinese/prettier-config",
-  "packageManager": "pnpm@10.10.0"
+  "packageManager": "pnpm@10.11.0"
 }
