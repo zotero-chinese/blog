@@ -43,7 +43,7 @@ jobs:
           > .vitepress/dist/.nojekyll
 
       - name: Repository Dispatch
-        uses: peter-evans/repository-dispatch@v3
+        uses: peter-evans/repository-dispatch@v4
         if: github.event_name != 'pull_request'
         with:
           token: ${{ secrets.ACCESS_TOKEN }}
