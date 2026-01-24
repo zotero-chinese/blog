@@ -3,7 +3,6 @@ title: Zotero 8 正式发布！
 date: 2026-1-24
 draft: false # 标记是否发布此博文
 authors:
-  - Dan Stillman
   - Northword
 ---
 
