@@ -22,11 +22,11 @@
     "@zotero-chinese/markdownlint-config": "^1.0.5",
     "@zotero-chinese/prettier-config": "^1.0.5",
     "autocorrect-node": "^2.14.0",
-    "markdownlint-cli2": "^0.19.1",
-    "prettier": "^3.7.3",
+    "markdownlint-cli2": "^0.21.0",
+    "prettier": "^3.8.1",
     "vitepress": "^1.6.4",
-    "vue": "^3.5.25"
+    "vue": "^3.5.29"
   },
   "prettier": "@zotero-chinese/prettier-config",
-  "packageManager": "pnpm@10.24.0"
+  "packageManager": "pnpm@10.30.3"
 }
