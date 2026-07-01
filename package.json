@@ -28,5 +28,5 @@
     "vue": "^3.5.33"
   },
   "prettier": "@zotero-chinese/prettier-config",
-  "packageManager": "pnpm@10.33.2"
+  "packageManager": "pnpm@11.9.0"
 }
